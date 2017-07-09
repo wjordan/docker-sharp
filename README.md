@@ -1,5 +1,5 @@
 # [Docker Image](https://registry.hub.docker.com/u/wjordan/sharp/) for [sharp](https://github.com/lovell/sharp)
-[![](https://badge.imagelayers.io/wjordan/sharp:latest.svg)](https://imagelayers.io/?images=wjordan/sharp:latest 'wjordan/sharp:latest')
+[![](https://images.microbadger.com/badges/image/wjordan/sharp.svg)](https://microbadger.com/images/wjordan/sharp "wjordan/sharp") [![](https://images.microbadger.com/badges/version/wjordan/sharp.svg)](https://microbadger.com/images/wjordan/sharp "wjordan/sharp")
 
 Installs [sharp](https://github.com/lovell/sharp) in an Alpine Linux container.
 
